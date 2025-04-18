@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+
 //No arquivo "matriz.h" pode ser encontrado informações mais detalhadas sobre cada função presente neste arquivo 
 
 // A funçao checaPonto analisa se as coordenadas passadas são repetidas, retornando 0 caso sejam e 1 caso n sejam.
