@@ -35,6 +35,7 @@ Se a alocação de memoria falhar, o programa eh encerrado com exit(1).
 void insere_Pessoa(Fila *f, int num);
 
 
+
 /*
 Recebe como argumentos o endereco de uma lista duplamente encadeada (Fila* f).
 é responsavel por esvaziar e processar uma fila implementada como uma lista duplamente encadeada, liberando todos os Nos da memoria e imprimindo a idade de cada pessoa atendida.
