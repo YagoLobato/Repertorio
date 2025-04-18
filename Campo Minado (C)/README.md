@@ -6,5 +6,7 @@ Consiste em um jogo de Campo Minado interativo no terminal. Seguindo os principi
 do programa, a primeira entrada definirá a dificuladade da partida:
 
 Se o jogador escolher 1, o campo será de 10x10 e terá 15 minas.
+
 Se o jogador escolher 2, o campo será de 20x20 e terá 60 minas.
+
 Se o jogador escolher 3, o campo será de 30x30 e terá 135 minas.
