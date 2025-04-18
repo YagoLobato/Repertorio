@@ -81,5 +81,6 @@ void atende_fila(Fila *f)
         free(atendido);
     }
 
+    
     free(f);
 }
